@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">GeekBrains_HW2</string>
-    <string name="button">1</string>
+    <string name="button1">1</string>
     <string name="button2">2</string>
     <string name="button3">3</string>
     <string name="button4">+</string>
@@ -16,4 +16,8 @@
     <string name="button14">.</string>
     <string name="button15">=</string>
     <string name="button16">/</string>
+    <string name="buttonAC">AC</string>
+    <string name="buttonSquare">X2</string>
+    <string name="buttonSqrt">sX</string>
+    <string name="buttonDivX">1/x</string>
 </resources>
