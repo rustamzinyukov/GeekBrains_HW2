@@ -7,28 +7,16 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="fbutton_color_turquoise">#1abc9c</color>
-    <color name="fbutton_color_green_sea">#16a085</color>
-    <color name="fbutton_color_emerald">#2ecc71</color>
-    <color name="fbutton_color_nephritis">#27ae60</color>
-    <color name="fbutton_color_peter_river">#3498db</color>
-    <color name="fbutton_color_belize_hole">#2980b9</color>
-    <color name="fbutton_color_amethyst">#9b59b6</color>
-    <color name="fbutton_color_wisteria">#8e44ad</color>
-    <color name="fbutton_color_wet_asphalt">#34495e</color>
-    <color name="fbutton_color_midnight_blue">#2c3e50</color>
-    <color name="fbutton_color_sun_flower">#f1c40f</color>
-    <color name="fbutton_color_orange">#f39c12</color>
-    <color name="fbutton_color_carrot">#e67e22</color>
-    <color name="fbutton_color_pumpkin">#d35400</color>
-    <color name="fbutton_color_alizarin">#e74c3c</color>
-    <color name="fbutton_color_pomegranate">#c0392b</color>
-    <color name="fbutton_color_clouds">#ecf0f1</color>
-    <color name="fbutton_color_silver">#bdc3c7</color>
-    <color name="fbutton_color_concrete">#95a5a6</color>
-    <color name="fbutton_color_asbestos">#7f8c8d</color>
+    <color name="button_color">#13292B</color>
     <color name="gray_for_calc">#1e2120</color>
     <color name="green_for_calc">#bdecb6</color>
+    <color name="button_text_color">#C3C2C6</color>
+    <color name="calc_background">#757373</color>
+    <color name="screen_color">#B9D598</color>
+    <color name="screen_text_color">#343534</color>
+    <color name="action_button_text_color">#9C8E8D</color>
+    <color name="action_button_color_night">#353C35</color>
+
 
 
 </resources>
